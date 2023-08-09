@@ -3,10 +3,8 @@
 **SS_StagedLighting** is a simple script designed to manage the lights for staged vehicles that utilize extras for their different stages.
 
 Creators most notable with creating staged lighting are:
-
-[RedNeck Modifications](https://www.redneckmods.com/)
-
-[Varical (Discord)](https://discord.gg/hxrwfjNXQx)
+- [RedNeck Modifications](https://www.redneckmods.com/)
+- [Varical (Discord)](https://discord.gg/hxrwfjNXQx)
 
 ## Installation and Configuration
 1. Add the script to your resources folder (Recommend in a sub folder like `[Scripts]`
