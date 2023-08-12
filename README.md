@@ -1,6 +1,6 @@
-# SS_StagedLighting - Staged Lighting Script for FiveM
+# JS_StagedLighting - Staged Lighting Script for FiveM
 
-**SS_StagedLighting** is a simple script designed to manage the lights for staged vehicles that utilize extras for their different stages.
+**JS_StagedLighting** is a simple script designed to manage the lights for staged vehicles that utilize extras for their different stages.
 
 Creators most notable with creating staged lighting are:
 - [Redneck Modifications](https://www.redneckmods.com/)
