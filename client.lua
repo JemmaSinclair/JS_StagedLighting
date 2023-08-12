@@ -82,7 +82,7 @@ Citizen.CreateThread(function()
             local currentStageText = "~y~Current Stage: ~w~" .. currentStage
             local textScale = 0.45
 
-            DrawTextMTD(Config.Loc[X], Config.Loc[Y], 1.0, 1.0, textScale, currentStageText, 255, 255, 255, 255)
+            DrawTextMTD(Config.HUDX, Config.HUDY, 1.0, 1.0, textScale, currentStageText, 255, 255, 255, 255)
         end
     end
 end)
