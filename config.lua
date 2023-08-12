@@ -4,6 +4,11 @@
 Config = {}
 
 Config.Keybind = "numpad2"
+Config.Loc = { -- HUD Location (Will only show in vehicle)
+	X = 0.657, 
+	Y = 1.38,
+}
+
 
 -- Define the stages and park pattern for each vehicle
 Config.Vehicles = {
