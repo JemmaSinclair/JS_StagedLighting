@@ -61,6 +61,11 @@ Config.Vehicles = {
 ## Safe Haven Roleplay
 This GitHub repository is managed by Safe Haven Roleplay, a vibrant and dedicated community passionate about immersive roleplaying experiences. Here, we strive to create and share resources that enhance the quality of roleplaying within our community and beyond. Our commitment to fostering creativity and engagement is at the heart of every project we undertake. If you're interested in joining our community, collaborating with like-minded individuals, or want to learn more about Safe Haven Roleplay, feel free to join us on Discord through [this invite link](https://discord.gg/NcWaH4EEVf). Stay tuned for updates, contribute your ideas, and let's continue to build memorable roleplaying adventures together!
 
+## Future Plans
+- Park Pattern Support
+- Enhanced GUI elements
+- Integration into LuxartVehicleControl
+
 ## License
 
 SS_StagedLighting is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you are free to use, modify, and distribute the script for non-commercial purposes as long as you provide proper attribution to the original creators. You must distribute your contributions under the same license terms if you remix, transform, or build upon the script. 
