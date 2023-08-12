@@ -9,7 +9,6 @@ version '1.0.0'
 -- What to run
 client_scripts {
      'client.lua'
-	,'functions.lua'
 }
 
 shared_script 'config.lua'
