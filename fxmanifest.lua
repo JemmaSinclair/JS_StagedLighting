@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'SuperintendentSinclair'
+author 'JemmaSinclair'
 description 'Controls for stage lighting vehicles'
 version '1.0.0'
 
