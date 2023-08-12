@@ -3,7 +3,7 @@
 **SS_StagedLighting** is a simple script designed to manage the lights for staged vehicles that utilize extras for their different stages.
 
 Creators most notable with creating staged lighting are:
-- [RedNeck Modifications](https://www.redneckmods.com/)
+- [Redneck Modifications](https://www.redneckmods.com/)
 - [Varical (Discord)](https://discord.gg/hxrwfjNXQx)
 
 ## Installation and Configuration
@@ -58,6 +58,8 @@ Config.Vehicles = {
     },
 }
 ```
+## Safe Haven Roleplay
+This GitHub repository is managed by Safe Haven Roleplay, a vibrant and dedicated community passionate about immersive roleplaying experiences. Here, we strive to create and share resources that enhance the quality of roleplaying within our community and beyond. Our commitment to fostering creativity and engagement is at the heart of every project we undertake. If you're interested in joining our community, collaborating with like-minded individuals, or want to learn more about Safe Haven Roleplay, feel free to join us on Discord through [this invite link](https://discord.gg/NcWaH4EEVf). Stay tuned for updates, contribute your ideas, and let's continue to build memorable roleplaying adventures together!
 
 ## License
 
