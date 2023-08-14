@@ -65,7 +65,9 @@ This GitHub repository is managed by Safe Haven Roleplay, a vibrant and dedicate
 - Park Pattern Support
 - Enhanced GUI elements
 - Integration into LuxartVehicleControl
-
+  
+## Known Problems
+- Sometimes, the stage will go above the max of a set vehicle (Commonly happens when going from a vehicle with more stages to a vehicle with fewer). Right now, a fix is to restart the script on occurrence.
 ## License
 
 SS_StagedLighting is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). This means you are free to use, modify, and distribute the script for non-commercial purposes as long as you provide proper attribution to the original creators. You must distribute your contributions under the same license terms if you remix, transform, or build upon the script. 
